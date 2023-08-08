@@ -23,7 +23,7 @@ const ProductSchema = new Schema ({
     },
     sale:{
         type:Number,
-        default:2
+        default:0
     },
     counterOfOrder:{
         type:Number,
